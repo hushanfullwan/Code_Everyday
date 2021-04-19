@@ -13,9 +13,9 @@
 
 ### (三)LeetCode热题HOT 100
 
-1. [1.两数之和](./QuestionsAndSolutions/LeetCode/LeetCode热题HOT 100/1.两数之和.md)
-2. [2.两数相加](./QuestionsAndSolutions/LeetCode/LeetCode热题HOT 100/2.两数相加.md)
-3. [15.三数之和](./QuestionsAndSolutions/LeetCode/LeetCode热题HOT 100/15.三数之和.md)
+1. [1.两数之和](./QuestionsAndSolutions/LeetCode/LeetCode热题HOT100/1.两数之和.md)
+2. [2.两数相加](./QuestionsAndSolutions/LeetCode/LeetCode热题HOT100/2.两数相加.md)
+3. [15.三数之和](./QuestionsAndSolutions/LeetCode/LeetCode热题HOT100/15.三数之和.md)
 
 
 
